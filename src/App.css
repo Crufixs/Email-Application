@@ -1,0 +1,63 @@
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+  
+}
+.rawr {
+  padding: 0;
+  margin:0;
+  vertical-align: center;
+  position: relative;
+  *overflow: hidden;
+}
+
+.date  {
+  position:relative;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 0px;
+  border-radius: 25%;
+  color: #fff;
+  text-align: center;
+  background: #000
+  
+}
+.heading {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.subheading {
+  font-size: 12px;
+}
+.circle {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  border-radius: 50%;
+  font-size: 10px;
+  color: #fff;
+  text-align: center;
+  background: #000
+}
+
+.month {
+  position:relative;
+  top:14px;
+  font-size:18px;
+}
+
+.day {
+  position:relative;
+  top:28px;
+  font-size:10px;
+}
+.date p{
+  margin:auto;
+}
+
