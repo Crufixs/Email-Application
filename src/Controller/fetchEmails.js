@@ -5,12 +5,11 @@ const useFetch = (url) => {
   const [emails, setEmails] = useState(null);
   const [error, setError] = useState(null);
   const [isPending, setIsPending] = useState(true);
-
+  console.log("URL IS " + url);
   useEffect(() => {
     const abortCont = new AbortController();
-
     //initialize values using JSON file
-
+    console.log("IM AT ROAWR");
     fetch(url, { signal: abortCont.signal })
       .then((res) => {
         if (!res.ok) {
@@ -30,12 +29,14 @@ const useFetch = (url) => {
           console.log("FETCH ABORTED");
         } else {
           setIsPending(false);
+          console.log("ERROR: " + err.message);
           setError(err.message);
         }
       });
     return () => abortCont.abort();
   }, []);
-  console.log("RETURNING EMAILS");
+
+  console.log("RETURNING EMAILSSS");
   console.log(emails);
   return { emails, isPending, error };
 };

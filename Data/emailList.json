@@ -3,28 +3,28 @@
     {
       "date": ["January", "3", "2022"],
       "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
-      "sender": ["Leo M'anoban", "sbtest.khr@gmail.com"],
-      "receiver": ["Carlo Minano", "jcl.minano@gmail.com"],
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
       "content": "To whom it may concern, this is the content of the email!",
-      "tags": ["tag1","tag2","tag3"],
+      "tags": ["Sample_Tag1","Sample_Tag2"],
       "id": 0
     },
     {
-      "date": ["January", "3", "2022"],
-      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
-      "sender": ["Leo M'anoban", "sbtest.khr@gmail.com"],
-      "receiver": ["Carlo Minano", "jcl.minano@gmail.com"],
-      "content": "To whom it may concern, this is the content of the email!",
-      "tags": ["tag1","tag2","tag3"],
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
       "id": 1
     },
     {
-      "date": ["January", "3", "2022"],
-      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
-      "sender": ["Leo M'anoban", "sbtest.khr@gmail.com"],
-      "receiver": ["Carlo Minano", "jcl.minano@gmail.com"],
-      "content": "To whom it may concern, this is the content of the email!",
-      "tags": ["tag1","tag2","tag3"],
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Shape of your body is blue"],
       "id": 2
     }
   ]

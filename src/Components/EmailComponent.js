@@ -9,7 +9,7 @@ function CustomToggle({ children, eventKey }) {
   return (
     <Button
       type="button"
-      style={{ backgroundColor: "black" }}
+      style={{ border: 0, backgroundColor: "white" }}
       onClick={decoratedOnClick}
     >
       {children}
@@ -18,13 +18,14 @@ function CustomToggle({ children, eventKey }) {
 }
 
 const EmailComponent = ({ emails }) => {
-  console.log("THE EMAILS IN EMAIL COMPONENTER: ");
+  console.log("THE EMAILS IN EMAIL COMPONENT: ");
   console.log(emails);
+
   return (
     <Accordion defaultActiveKey="0">
       {emails.map((email) => (
-        <Card>
-          <Card.Header>
+        <Card className="my-1">
+          <Card.Header className="bg-white">
             <Row className="align-items-center">
               <Col className="col-auto d-flex align-items-center">
                 <svg
@@ -33,7 +34,7 @@ const EmailComponent = ({ emails }) => {
                   width="20"
                   height="20"
                   fill="currentColor"
-                  class="bi bi-grip-vertical"
+                  className="bi bi-grip-vertical"
                   viewBox="0 0 16 16"
                   preserveAspectRatio="xMidYMin"
                 >
@@ -46,41 +47,73 @@ const EmailComponent = ({ emails }) => {
                   width="12"
                   height="12"
                   fill="green"
-                  class="bi bi-circle-fill"
+                  className="bi bi-circle-fill"
                   preserveAspectRatio="xMidYMin"
                   viewBox="0 0 16 16"
                 >
                   <circle cx="8" cy="8" r="8" />
                 </svg>
-                <div class="date mx-2">
-                  <p class="month">{email.date[1]}</p>
-                  <p class="day">Jan</p>
+                <div className="date mx-2 bg-light">
+                  <p className="month">{email.date[1]}</p>
+                  <p className="day">{email.date[0].substring(0, 3)}</p>
                 </div>
-                <div className="circle">X</div>
+                <div className="circle bg-secondary">
+                  {email.sender[1].substring(0, 1)}
+                </div>
               </Col>
               <Col>
                 <Row>
-                  <Col className="heading col-12">email.subject</Col>
+                  <Col className="heading col-12">{email.emailSubject}</Col>
                   <Col className="subheading col-12">
-                    From, Date, Attachment?
+                    <span>{email.sender[0] + " " + email.sender[1]}</span>
+                    <span>{" <" + email.sender[2] + ">"}</span>
+                    <span>
+                      {email.date[0] +
+                        " " +
+                        email.date[1] +
+                        ", " +
+                        email.date[2]}
+                    </span>
                   </Col>
                 </Row>
               </Col>
               <Col className="text-end col-auto">
-                <CustomToggle eventKey="0">Click me!</CustomToggle>
+                <CustomToggle eventKey={email.id}>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="black"
+                    class="bi bi-chevron-down"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"
+                    />
+                  </svg>
+                </CustomToggle>
               </Col>
             </Row>
           </Card.Header>
-          <Accordion.Collapse eventKey="0">
+          <Accordion.Collapse eventKey={email.id}>
             <Card.Body>
               <Row>
                 <Col xs={6} className="text-start">
-                  From
+                  <p>
+                    {email.sender[0] + " " + email.sender[1]}
+                    <br></br>
+                    {email.date[0] + " " + email.date[1] + ", " + email.date[2]}
+                  </p>
                 </Col>
                 <Col xs={6} className="text-end">
-                  Tags
+                  {email.tags.map((tag) => (
+                    <Button className="m-1" size="sm" variant="outline-primary">
+                      {tag}
+                    </Button>
+                  ))}
                 </Col>
-                <Col xs={12}>Text body</Col>
+                <Col xs={12}>{email.content}</Col>
               </Row>
             </Card.Body>
           </Accordion.Collapse>
