@@ -89,6 +89,815 @@
       "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
       "tags": ["YouTube", "Terms and Condition"], 
       "id": 9
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 10
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 11
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 12
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 13
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 14
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 15
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 16
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 17
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 18
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 19
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 20
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 21
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 22
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 23
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 24
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 25
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 26
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 27
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 28
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 29
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 30
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 31
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 32
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 33
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 34
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 35
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 36
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 37
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 38
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 39
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 40
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 41
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 42
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 43
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 44
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 45
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 46
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 47
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 48
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 49
+    },{
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 50
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 51
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 52
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 53
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 54
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 55
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 56
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 57
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 58
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 59
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 60
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 61
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 62
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 63
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 64
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 65
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 66
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 67
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 68
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 69
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 70
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 71
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 72
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 73
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 74
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 75
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 76
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 77
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 78
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 79
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 80
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 81
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 82
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 83
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 84
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 85
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 86
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 87
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 88
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 89
+    },
+    {
+      "date": ["January", "3", "2022"],
+      "emailSubject": "Fwd: New Project 1 {New-10708/1716}",
+      "sender": ["Leo","M'anoban", "sbtest.khr@gmail.com"],
+      "receiver": ["Carlo", "Minano", "jcl.minano@gmail.com"],
+      "content": "To whom it may concern, this is the content of the email!",
+      "tags": ["Sample_Tag1","Sample_Tag2"],
+      "id": 90
+    },
+    {
+      "date": ["March", "37", "2028"],
+      "emailSubject": "Sample Email Subject",
+      "sender": ["George R. R.","Martin", "george@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello this is another sample of the content of an email :>",
+      "tags": ["Game of Thrones","Author","Taylor Swift"],
+      "id": 91
+    },
+    {
+      "date": ["June", "23", "2022"],
+      "emailSubject": "Taylor Swift is in your Area!",
+      "sender": ["Not","Scammer", "notScammer@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
+      "id": 92
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 93
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 94
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 95
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 96
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 97
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 98
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 99
     }
   ]
 }

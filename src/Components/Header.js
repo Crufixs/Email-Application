@@ -3,14 +3,21 @@ import { Button, Row, Col } from "react-bootstrap";
 const Header = ({ handleDelete }) => {
   return (
     <div>
-      <Row>
-        <Col className="text-start col-auto">
+      <Row className="gy-1">
+        <Col
+          //style={{ backgroundColor: "blue" }}
+          className=" text-sm-start text-center col-12 col-sm-auto"
+        >
           <Row className="align-items-center">
-            <Col className="col-auto">
-              <Button size="sm" variant="link">
-                <input type="checkbox"></input>
+            <Col className="text-start col-8 col-sm-auto">
+              <Button className="p-0 disabled" size="sm" variant="link">
+                <input type="checkbox" enabled></input>
               </Button>
-              <Button className="mx-1" size="sm" variant="outline-success">
+              <Button
+                className="mx-1 p-1 fs-12"
+                size="sm"
+                variant="outline-success"
+              >
                 Save{" "}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -37,7 +44,7 @@ const Header = ({ handleDelete }) => {
                 </svg>
               </Button>
             </Col>
-            <Col className="col-auto border-start border-secondary">
+            <Col className="text-end text-sm-start col-4 col-sm-auto border-start border-secondary">
               <Button
                 className="mx-1"
                 size="sm"
@@ -59,7 +66,11 @@ const Header = ({ handleDelete }) => {
             </Col>
           </Row>
         </Col>
-        <Col className="text-end">
+        <Col></Col>
+        <Col
+          //style={{ backgroundColor: "red" }}
+          className="text-sm-end text-center col-12 col-sm-auto align-self-end"
+        >
           <button style={{ border: 0, backgroundColor: "white" }}>
             <svg
               xmlns="http://www.w3.org/2000/svg"

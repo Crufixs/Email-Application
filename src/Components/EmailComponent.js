@@ -26,8 +26,8 @@ const EmailComponent = ({ emails, handleChange }) => {
       {emails.map((email) => (
         <Card key={email.id} className="my-1">
           <Card.Header className="bg-white">
-            <Row className="align-items-center">
-              <Col className="col-auto d-flex align-items-center">
+            <Row className="gy-1 align-items-center">
+              <Col className="order-1 col-9 col-sm-auto d-flex align-items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
@@ -64,7 +64,7 @@ const EmailComponent = ({ emails, handleChange }) => {
                   {email.sender[1].substring(0, 1)}
                 </div>
               </Col>
-              <Col>
+              <Col className="order-3 order-sm-2">
                 <Row>
                   <Col className="heading col-12">{email.emailSubject}</Col>
                   <Col className="subheading col-12">
@@ -80,7 +80,7 @@ const EmailComponent = ({ emails, handleChange }) => {
                   </Col>
                 </Row>
               </Col>
-              <Col className="text-end col-auto">
+              <Col className="order-2 order-sm-3 col-3 col-sm-auto text-end ">
                 <CustomToggle eventKey={email.id}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"

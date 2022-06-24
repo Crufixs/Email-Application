@@ -7,7 +7,6 @@
   
 }
 
-
 .date  {
   position:relative;
   display: inline-block;
@@ -51,5 +50,9 @@
 }
 .date p{
   margin:auto;
+}
+
+.btn-sm{
+  padding:0px;
 }
 
