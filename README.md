@@ -8,9 +8,7 @@ I converted the layout into a working web page using React. Additionally, I used
 ## Launch information
 
 In order to run the project, first run the following code in the project folder using command line to start the json server:
-
 ### `npx json-server --watch Data/emailList.json --port 8000`
 
 Then open the web page by running the code in the project folder using command line:
-
 ### `npm start`
