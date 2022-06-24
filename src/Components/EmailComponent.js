@@ -2,9 +2,7 @@ import { Button, Accordion, Card, Row, Col } from "react-bootstrap";
 import { useAccordionButton } from "react-bootstrap/AccordionButton";
 
 function CustomToggle({ children, eventKey }) {
-  const decoratedOnClick = useAccordionButton(eventKey, () =>
-    console.log("totally custom!")
-  );
+  const decoratedOnClick = useAccordionButton(eventKey, () => console.log(  ));
 
   return (
     <Button
@@ -18,9 +16,6 @@ function CustomToggle({ children, eventKey }) {
 }
 
 const EmailComponent = ({ emails, handleChange }) => {
-  console.log("THE EMAILS IN EMAIL COMPONENT: ");
-  console.log(emails);
-
   return (
     <Accordion defaultActiveKey="0">
       {emails.map((email) => (

@@ -4,10 +4,7 @@ const Header = ({ handleDelete }) => {
   return (
     <div>
       <Row className="gy-1">
-        <Col
-          //style={{ backgroundColor: "blue" }}
-          className=" text-sm-start text-center col-12 col-sm-auto"
-        >
+        <Col className=" text-sm-start text-center col-12 col-sm-auto">
           <Row className="align-items-center">
             <Col className="text-start col-8 col-sm-auto">
               <Button className="p-0 disabled" size="sm" variant="link">
@@ -67,10 +64,7 @@ const Header = ({ handleDelete }) => {
           </Row>
         </Col>
         <Col></Col>
-        <Col
-          //style={{ backgroundColor: "red" }}
-          className="text-sm-end text-center col-12 col-sm-auto align-self-end"
-        >
+        <Col className="text-sm-end text-center col-12 col-sm-auto align-self-end">
           <button style={{ border: 0, backgroundColor: "white" }}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -86,7 +80,7 @@ const Header = ({ handleDelete }) => {
               />
             </svg>
           </button>
-          <span className="mx-1">50 of 150</span>
+          <span className="mx-1">100 of 100</span>
           <button style={{ border: 0, backgroundColor: "white" }}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
