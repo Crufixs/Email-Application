@@ -1,26 +1,39 @@
 import { useState, useEffect } from "react";
 
-//custom hooks need the word use: ie useFetch
-const useFetch = (url) => {
-  const [emails, setEmails] = useState(null);
-  const [error, setError] = useState(null);
-  const [isPending, setIsPending] = useState(true);
-  console.log("URL IS " + url);
+const useFetch = ({
+  url,
+  emails,
+  setEmails,
+  error,
+  setError,
+  isPending,
+  setIsPending,
+  checkBoxId,
+  setCheckBoxId,
+}) => {
   useEffect(() => {
     const abortCont = new AbortController();
-    //initialize values using JSON file
-    console.log("IM AT ROAWR");
     fetch(url, { signal: abortCont.signal })
       .then((res) => {
         if (!res.ok) {
-          throw Error("Could not fetch the donata data for that resource");
+          throw Error("Could not fetch the data for that resource");
         }
         return res.json();
       })
       .then((emails) => {
-        console.log("FETCHING EMAILS");
-        console.log(emails);
         setEmails(emails);
+        console.log(emails);
+        console.log("RAWR BEFORE");
+        emails.map((email) => {
+          console.log(email);
+          setCheckBoxId((checkBoxId) => [
+            ...checkBoxId,
+            { id: email.id, isChecked: false },
+          ]);
+          console.log(checkBoxId);
+        });
+        console.log("RAWR AFTER");
+        console.log(checkBoxId);
         setIsPending(false);
         setError(null);
       })
@@ -35,10 +48,7 @@ const useFetch = (url) => {
       });
     return () => abortCont.abort();
   }, []);
-
-  console.log("RETURNING EMAILSSS");
-  console.log(emails);
-  return { emails, isPending, error };
+  return { emails, isPending, error, checkBoxId };
 };
 
 export default useFetch;

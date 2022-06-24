@@ -24,8 +24,71 @@
       "sender": ["Not","Scammer", "notScammer@gmail.com"],
       "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
       "content": "Taylor Swift is in your area. Send 10k to this gcash (+63) 917 950 9544 for a chance to meet the one and only Taylor Swift.",
-      "tags": ["You Belong with Me","Cruel Summer","Scam", "Shape of your body is blue"],
+      "tags": ["You Belong with Me","Cruel Summer","Scam", "Song"],
       "id": 2
+    },
+    {
+      "date": ["December", "17", "1789"],
+      "emailSubject": "Inquiry Regarding Hamilton",
+      "sender": ["Aaron","Burr", "aaron.burr@gmail.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "How does a bastard, orphan, immigrant, decorated war vet, unite the colonies through more debt? Fight the other founding fathers 'till he has to forfeit? Have it all, lose it all, are you ready for more yet?",
+      "tags": ["Hamilton","What'd I miss", "Song"],
+      "id": 3
+    },
+    {
+      "date": ["March", "23", "2022"],
+      "emailSubject": "Daily Notifications",
+      "sender": ["","do-not-reply", "do-not-reply@blackboard.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Your work was received! You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page",
+      "tags": ["Blackboard","UST", "School"],
+      "id": 4
+    },
+    {
+      "date": ["June", "2", "2022"],
+      "emailSubject": "Career Fair 2022: Think Tech",
+      "sender": ["Google","Forms", "forms-receipts-noreply@google.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Thanks for filling out Career Fair 2022: Think Tech. Here's what was received.",
+      "tags": ["Google Forms"],
+      "id": 5
+    },
+    {
+      "date": ["February", "9", "2022"],
+      "emailSubject": "Your order 46as5d6asd165 has been delivered",
+      "sender": ["Lazada","Philippines", "noreply@support.lazada.com.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hi Juan Carlo Louis Miñano, we’re happy to let you know that item/s from your order #46as5d6asd165 has been delivered or collected. Thank you for shopping with us. See you on your next purchase!",
+      "tags": ["Lazada", "Online Shopping"],
+      "id": 6
+    },
+    {
+      "date": ["January", "19", "2022"],
+      "emailSubject": "Take the Axie Player Survey!",
+      "sender": ["Axir","Infinity", "no-reply@axieinfinity.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "What do you think about Axie Infinity? We're all ears! Please share your feedback so we can improve both the current experience and future development of the game.",
+      "tags": ["Axie Infinity", "Cryptocurrency", "SLP"], 
+      "id": 7
+    },
+    {
+      "date": ["September", "28", "2021"],
+      "emailSubject": "Thank you for scheduling your vaccination appointment!",
+      "sender": ["QC ","eServices Notification", "noreply@quezoncity.gov.ph"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "Hello MIÑANO, JUAN CARLO LOUIS ORABAO, Your COVID-19 vaccination appointment has been successfully scheduled.",
+      "tags": ["Quezon City", "Vaccine", "eServices", "Booster"], 
+      "id": 8
+    },
+    {
+      "date": ["November", "27", "2021"],
+      "emailSubject": "Updates to YouTube’s Terms of Service",
+      "sender": ["","YouTube ", "no-reply@youtube.com"],
+      "receiver": ["Carlo","Minano", "jcl.minano@gmail.com"],
+      "content": "On January 5, 2022, we’re updating our Terms of Service (“Terms”) to help clarify and make it easier to understand what to expect as you use the service. These changes won’t affect the way you use YouTube. You can review a summary of the changes and the updated Terms here.",
+      "tags": ["YouTube", "Terms and Condition"], 
+      "id": 9
     }
   ]
 }

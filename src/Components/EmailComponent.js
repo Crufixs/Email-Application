@@ -17,37 +17,40 @@ function CustomToggle({ children, eventKey }) {
   );
 }
 
-const EmailComponent = ({ emails }) => {
+const EmailComponent = ({ emails, handleChange }) => {
   console.log("THE EMAILS IN EMAIL COMPONENT: ");
   console.log(emails);
 
   return (
     <Accordion defaultActiveKey="0">
       {emails.map((email) => (
-        <Card className="my-1">
+        <Card key={email.id} className="my-1">
           <Card.Header className="bg-white">
             <Row className="align-items-center">
               <Col className="col-auto d-flex align-items-center">
                 <svg
-                  className="mx-1"
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
                   height="20"
                   fill="currentColor"
-                  className="bi bi-grip-vertical"
+                  className="bi bi-grip-vertical mx-1"
                   viewBox="0 0 16 16"
                   preserveAspectRatio="xMidYMin"
                 >
                   <path d="M7 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zM7 5a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zM7 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm-3 3a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm-3 3a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z" />
                 </svg>
-                <input className="mx-2 rawr" type="checkbox"></input>
+                <input
+                  id={email.id}
+                  className="mx-2 rawr"
+                  type="checkbox"
+                  onChange={handleChange}
+                ></input>
                 <svg
-                  className="mx-1"
                   xmlns="http://www.w3.org/2000/svg"
                   width="12"
                   height="12"
                   fill="green"
-                  className="bi bi-circle-fill"
+                  className="mx-1bi bi-circle-fill"
                   preserveAspectRatio="xMidYMin"
                   viewBox="0 0 16 16"
                 >
@@ -66,7 +69,7 @@ const EmailComponent = ({ emails }) => {
                   <Col className="heading col-12">{email.emailSubject}</Col>
                   <Col className="subheading col-12">
                     <span>{email.sender[0] + " " + email.sender[1]}</span>
-                    <span>{" <" + email.sender[2] + ">"}</span>
+                    <span>{" <" + email.sender[2] + "> "}</span>
                     <span>
                       {email.date[0] +
                         " " +
@@ -84,11 +87,11 @@ const EmailComponent = ({ emails }) => {
                     width="16"
                     height="16"
                     fill="black"
-                    class="bi bi-chevron-down"
+                    className="bi bi-chevron-down"
                     viewBox="0 0 16 16"
                   >
                     <path
-                      fill-rule="evenodd"
+                      fillRule="evenodd"
                       d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"
                     />
                   </svg>
