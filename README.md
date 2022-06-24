@@ -1,13 +1,18 @@
-# Getting Started with Create React App
+# LOPHILS INC - IT (OJT) - Frontend Developer Exam
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I converted the layout into a working web page using React and was able to get the following results:
+
+I used the bootstrap framework to aid with the layouting and json-server to store the email object array.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In order to run the project, first run the following code in the project folder to start the json server:
 
 ### `npm start`
 
+Then open the web page by using:
+
+### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
