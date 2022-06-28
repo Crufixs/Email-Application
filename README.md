@@ -1,6 +1,10 @@
-# LOPHILS INC - IT (OJT) - Frontend Developer Exam
+# Email React Application
+This repository is a single page web-application of a list of emails and is a demonstration of my knowledge in ReactJs. It shows you a list of emails just like how you would see it through Gmail. I used the bootstrap framework to aid with the layouting and used json-server to store the array of email objects. Please excuse some of the content of the email objects, I used my creativity to fill up the dummy records with random information. I also only created 10 unique email information for the array and I copy pasted it 10 times. 
 
-I converted the layout into a working web page using React. Additionally, I used the bootstrap framework to aid with the layouting and used json-server to store the array of email objects. Please excuse some of the content of the email objects, I used my creativity to fill up the dummy records with random information. I also only created 10 unique email information for the array and I copy pasted it 10 times in order to reach 100 dummy information. The following pictures are demonstrate the what the website looks like when launched:
+## Functionality
+- You can delete emails by checking the checkbox button of the emails you are going to delete and then clicking the delete button
+
+The following pictures are demonstrate the what the website looks like when launched:
 
 <img src="readme_pics/lophils1.png" width="600" title="Closed email">
 <img src="readme_pics/lophils2.png" width="600" title="Opened email">
