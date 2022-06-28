@@ -4,6 +4,7 @@ This repository is a single page web-application of a list of emails and is a de
 ## Functionality
 - You can delete emails by checking the checkbox button of the emails you are going to delete and then clicking the delete button
 
+## Demonstration
 The following pictures are demonstrate the what the website looks like when launched:
 
 <img src="readme_pics/lophils1.png" width="600" title="Closed email">
