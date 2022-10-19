@@ -1,5 +1,5 @@
 # Email React Application
-This repository is a single page web-application of a list of emails and is a demonstration of my knowledge in ReactJs. It shows you a list of emails just like how you would see it through Gmail. I used the bootstrap framework to aid with the layouting and used json-server to store the array of email objects. Please excuse some of the content of the email objects, I used my creativity to fill up the dummy records with random information. I also only created 10 unique email information for the array and I copy pasted it 10 times. 
+This repository is a single page web-application of a list of emails which is written in ReactJs. I created this project as my entry for LOPhils' technical exam. For the implementation of this project, I used the bootstrap framework to aid with the layouting for the front-end design. Furthermore, I used json-server to store the email objects in order to simulate a client-server relationship. Please excuse some of the content of the email objects, I used my creativity to fill up the dummy records with random information. I also only created 10 unique email information for the array and I copy pasted it 10 times. 
 
 ## Functionality
 - You can delete emails by checking the checkbox button of the emails you are going to delete and then clicking the delete button
